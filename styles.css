@@ -7,7 +7,7 @@ body {
     min-height: 100vh;
     background-color: #10181f;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #ff3b3b;
+    color: #ffff00;
 }
 
 .container {
@@ -22,17 +22,17 @@ body {
 h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
-    color: #ff3b3b;
+    color: #ffff00;
 }
 
 p {
     font-size: 1.2rem;
-    color: #ff3b3b;
+    color: #ffff00;
     margin-bottom: 2rem;
 }
 
 #timestamp {
     font-family: monospace;
-    color: #ff3b3b;
+    color: #ffff00;
     opacity: 0.8;
 }
